@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "nombre": "Indigno de ser humano",
+        "autor": "Osamu Dazai",
+        "genero": "Novela"
+    },
+    {
+        "id": 2,
+        "nombre": "Abrazado a las estrellas",
+        "autor": "Chuuya Nakahara",
+        "genero": "Poesía"
+    }
+    
+]
